@@ -1,0 +1,17 @@
+.*?<meta property="og:title" content="(.*?)" />.*?
+.*?<meta property="book:isbn" content="9787544264112" />.*?
+<meta property="book:author" content="夏承焘" />
+<meta property="book:author" content="等" />
+<meta property="book:author" content="(.*?)" />
+<span class="pl">出版社:</span>.*?<a href=.*?>(.*?)</a>
+<span class="pl">出版年:</span>(.*?)<br/>
+<span class="pl">定价:</span>(.*?)<br/>
+.*?<span class="pl">出版社:</span>.*?<a href=".*?">上海辞书出版社</a>.*?
+    <br>
+    <span class="pl">出版社:</span>(.*?)<br/>
+    <span class="rating_per">(.*?)</span>
+    <div class="intro">
+    <p>作为文学样式之一的词，其鼎盛之时在两宋时期，人们多习惯于将唐诗宋词并举对立，宋词与唐诗、元曲成为我国诗歌史上的三大奇葩。因此，有相当多的读者希望辞书社能单独出版一部《宋词鉴赏辞典》。为满足广大读者的需求，辞书社从原《唐宋词鉴赏辞典》中辑出宋、辽、金部分，编成这部《宋词鉴赏辞典》。&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;本书分为上、下两册。</p></div>
+<div class="intro"><p>(.*?)</p></div>
+<meta property="og:description" content="(.*?)" />
+<span>内容简介</span>(.*?)<span>目录</span>
